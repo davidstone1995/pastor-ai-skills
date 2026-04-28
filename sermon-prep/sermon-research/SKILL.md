@@ -24,6 +24,18 @@ Give me the scripture passage you are preaching. That is the only required input
 
 If all you have is a passage, that is enough. I will not ask you five follow-up questions before starting. Give me what you have and I will get to work.
 
+### Lectionary Set Research
+
+When David is working from the ACNA lectionary, the Sunday has four readings: an Old Testament text, a Psalm, an Epistle, and a Gospel. Treat all four as a set unless David specifies otherwise.
+
+For lectionary research, the workflow runs through all four passages with attention to the thematic thread connecting them. Identify the liturgical season, the proper number, and the lectionary year (A, B, or C) before beginning. The season shapes the interpretive lens. Advent is not Christmas. Lent is not Easter. Ordinary Time is not filler.
+
+If David has already identified a primary preaching passage from the set, give that passage the full seven-step treatment and provide abbreviated context for the supporting readings, noting where they reinforce or complicate the primary text.
+
+### Translation for Research
+
+All research outputs quote scripture in ESV (English Standard Version). This is David's research translation. Sermon-facing outputs (brainstorm, outlines, manuscripts) use NLT. Do not mix translations within a research document without labeling the shift clearly.
+
 ---
 
 ## Research Workflow
@@ -90,6 +102,37 @@ I will draw from 3-5 commentators or theological traditions, covering:
 I will name the commentators I am drawing from. I will not fabricate quotes. I will summarize their positions accurately. If a passage is interpretively contested, I will tell you that directly rather than picking a side for you.
 
 See `references/commentary-sources.md` for the full list of sources this skill draws on, with descriptions and access information.
+
+### David's Preferred Scholars
+
+Draw from these commentators and theologians first. David knows their work, trusts their approach, and can go deeper with them on his own.
+
+**New Testament:**
+- Douglas Moo (Romans, Galatians, James, Colossians: NICNT, Pillar, BECNT)
+- C.E.B. Cranfield (Romans: ICC)
+- R. Kent Hughes (Preaching the Word series: broad NT coverage)
+- Michael Gorman (Paul, Romans, Revelation)
+- Frank Thielman (Pauline theology, Philippians, Ephesians)
+- N.T. Wright (NT theology, Romans, Matthew, John: New Interpreter's Bible and popular works)
+- Darrell Bock (Luke, Acts: BECNT, IVP)
+- Joel Green (Luke: NICNT)
+- Kenneth Bailey (Luke, cultural background of the Gospels)
+
+**Old Testament and Psalms:**
+- Derek Kidner (Psalms, Proverbs, Genesis: Tyndale OT)
+- Walter Brueggemann (Psalms, Jeremiah, OT theology: Interpretation series)
+- J.A. Thompson (Jeremiah: NICOT)
+
+**Historical and Systematic Theology:**
+- Augustine (especially Confessions, City of God, and his Pauline commentaries)
+- Martin Luther (Galatians commentary, Romans lectures)
+- John Calvin (Institutes, NT and Psalm commentaries)
+
+**Preaching and Pastoral:**
+- John Stott (BST series: broad NT coverage)
+- Warren Wiersbe (BE series: accessible pastoral commentary)
+
+When a passage falls outside a preferred scholar's specialty, default to the pre-approved series listed in `references/commentary-sources.md`. Never draw from Mormon, Latter-day Saint, Jehovah's Witness, or Word of Faith sources. See foundation Rule 3.
 
 ---
 
@@ -226,13 +269,30 @@ Structure the research into this exact format before generating the PDF. Every f
 
 ---
 
+## Source Citation Summary
+
+Every research output ends with a brief source citation summary. This is not optional. David has a hard rule against presenting unverifiable material from the pulpit, and this summary is the mechanism that enforces it.
+
+The summary lists every named source, illustration, historical claim, and attributed quote in the research document and categorizes each one:
+
+| Category | Meaning |
+|---|---|
+| **Verified** | The position or summary is documented and attributable to this scholar's published work. |
+| **Needs verification** | The claim is plausible and consistent with the scholar's known positions but should be confirmed before citing publicly. |
+| **Conventional attribution** | A quote or anecdote widely attributed to this figure in sermon culture but without a confirmed primary source. Flag clearly. Do not present as documented. |
+
+If an illustration or historical anecdote cannot be placed in the Verified category, flag it explicitly and offer a verified alternative where possible. David will not use unverifiable material from the pulpit.
+
+---
+
 ## Anti-Patterns
 
 This skill will not do the following, even if you ask:
 
 - **No sermon outline or structure.** Research is research. Structure comes in your prep, not here.
 - **No three-point frameworks.** The AI will not suggest how to organize the sermon.
-- **No fabricated quotes.** If a commentator's exact words are not available, the AI summarizes the position. It does not invent a quotation to make a point sound more authoritative.
+- **No fabricated quotes.** See foundation Rule 7. If a commentator's exact words are not available, summarize their documented position. Never invent a quotation. Never present a "conventional attribution" quote as a verified source without flagging it.
+- **No unverifiable illustrations.** If a historical story, anecdote, or illustrative example cannot be sourced, flag it and offer a verified alternative. Presenting fabricated or unverifiable illustrations from the pulpit is a trust issue, not just an accuracy issue.
 - **No over-spiritualized history.** The Roman census was a political act. The Temple Mount was a real place with real economic activity. Historical context is not a metaphor. This skill reads it plainly before asking what it means theologically.
 
 ---
