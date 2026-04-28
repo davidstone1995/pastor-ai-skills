@@ -40,21 +40,66 @@ If David provides a start date, identify what liturgical season it falls in and 
 
 ---
 
+## Series Types
+
+Not all series work the same way. Identify which type David is building before planning anything.
+
+---
+
+### Type 1: Expository Book Walk
+
+David regularly preaches through books of the Bible section by section, following the approach modeled by Gregg Matte at Houston's First Baptist Church. The exposition is primary: the passage determines the content. But the series and sermon titles are packaged around the felt-need or life application of what the passage actually addresses, not around the chapter and verse reference.
+
+**How this works:**
+
+The book is divided into natural literary units (not arbitrary chapter breaks). Each unit gets a sermon, and each sermon gets a title that communicates what a person outside the church would recognize as relevant to their life. The title comes from the text; it does not impose a theme onto the text.
+
+**Examples of this approach in practice:**
+- 2 Timothy 1 deals with Paul's encouragement to Timothy, the faith of his grandmother Lois and mother Eunice, and the call to guard the gospel. Packaged as: "We Are Family."
+- A passage in Song of Solomon or 1 Corinthians 7 dealing with sexual ethics and marriage could be packaged as something accessible and honest rather than "Sexual Purity: A Biblical Framework."
+- Jonah 1 deals with running from God's call. Packaged as: "Overboard" or "The Wrong Boat."
+
+**The discipline of this approach:**
+- The title must come from something actually in the text. It is not marketing layered on top of a chapter. The congregation should be able to see the connection once they hear the sermon.
+- The exposition does not soften to fit the title. If the text is hard, the sermon is hard. The accessible title earns you the room; what you do with the room is still the text.
+- Verse-by-verse does not mean every verse gets equal time. Some verses anchor the sermon. Others provide context. The structure follows the text's own argument and emphasis.
+
+**When David says he wants to walk through a book**, build the plan as an expository book walk unless he specifies otherwise. Divide the book into natural units, suggest a package title for each unit, and note the literary logic for where each division falls.
+
+---
+
+### Type 2: Topical Series
+
+Built around a theme, a life question, or a theological topic. Anchored by 4-8 key passages that address the topic from different angles. The risk with topical series is that they can chase every verse on a subject rather than letting a clear through-line develop. The best topical series has one argument across all weeks, not a different passage each week that happens to mention the same word.
+
+---
+
+### Type 3: Seasonal or Liturgical Series
+
+Built around the ACNA liturgical calendar. Advent, Lent, and Eastertide series fall here. These series work within a season's existing theological weight rather than against it. See the ACNA Calendar Awareness section above.
+
+---
+
 ## Step 1: Understand the Scope
 
-Before building anything, I'll assess what you're working with.
+Before building anything, assess what David is working with.
 
-**If you're preaching a book of the Bible:**
-- Is the whole book teachable in your timeframe, or does it need to be a focused portion?
-- Some books (Philippians, James, Ruth) fit naturally into 4-6 weeks. Others (Romans, Genesis) need a curated selection or a multi-series approach.
-- I'll flag if the number of weeks is too ambitious or too shallow for the material.
+**If expository book walk:**
+- Is the whole book teachable in the requested timeframe, or does it need a curated portion?
+- Some books (Philippians, James, Ruth) fit naturally into 4-6 weeks. Others (Romans, Genesis, Isaiah) need a multi-series approach or a focused selection.
+- Divide the book into natural literary units. Note where the author shifts argument, audience, or tone. Those are your series divisions.
+- Flag if the number of weeks is too compressed to honor the text or too stretched to maintain momentum.
 
-**If you're preaching a theme:**
-- I'll identify the 4-8 strongest passages that anchor the topic biblically.
-- I'll avoid the temptation to chase every verse. The best thematic series has a clear through-line, not a concordance dump.
-- Themes that are too broad (e.g., "faith") need to be narrowed. I'll help you find the angle.
+**If topical:**
+- Identify the 4-8 strongest passages that anchor the topic biblically.
+- Avoid chasing every verse. The best thematic series has a clear through-line, not a concordance dump.
+- Themes that are too broad (e.g., "faith") need to be narrowed. Find the angle.
 
-**Output of this step:** A brief scope assessment. One paragraph. If the premise needs adjustment, I'll say so before building the full plan.
+**If seasonal or liturgical:**
+- Identify the season and its theological weight first.
+- The series serves the season. It does not override it.
+
+**Output of this step:** A brief scope assessment. One paragraph. If the premise needs adjustment, say so before building the full plan.
 
 ---
 
