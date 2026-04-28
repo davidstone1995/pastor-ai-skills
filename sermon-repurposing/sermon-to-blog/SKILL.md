@@ -31,6 +31,8 @@ Provide one of the following:
 
 If you don't provide a keyword, one will be identified from the sermon content.
 
+**Note on illustrations and quotes:** Do not fabricate stories, statistics, or quotes, even compelling ones. If an illustration is used, it should come directly from the sermon content provided. If a quote is attributed to a named person, it must be verifiable. Mark any uncertain attribution clearly rather than presenting it as confirmed. See Factual Integrity rules in pastor-foundation.
+
 ---
 
 ## Workflow
@@ -108,7 +110,8 @@ Each section covers one key point from the sermon. The subheadings should be sca
 Guidelines for each section:
 - 150-250 words
 - Weave in scripture naturally. Do not block-quote every other paragraph. Reference it, quote a phrase, let it breathe.
-- Use the sermon's language and illustrations, adapted for reading. A story told out loud has different pacing than one told on the page. Tighten it. Cut the setup. Lead with what matters.
+- Use the sermon's language and illustrations, adapted for reading. A story told out loud has different pacing than one told on the page. Tighten it. Cut the setup. Lead with what matters. Do not introduce new illustrations not present in the sermon content.
+- Scripture default: NLT. If the sermon used a different translation consistently, match it. Identify the translation used once and stay consistent throughout.
 - Keep paragraphs short: 2-3 sentences. White space is your friend.
 - Bold only what is genuinely worth emphasizing. Not every sentence. Sparingly.
 - Use bullet points only for actual lists, not to fake structure.
@@ -154,6 +157,7 @@ Deliver the following, in order:
 Before presenting the output, verify:
 
 - [ ] Opening hook does not reference the sermon, the service, or the pastor's name
+- [ ] No fabricated illustrations or unverified quotes introduced beyond what the sermon provided
 - [ ] Word count is between 800 and 1200
 - [ ] No em dashes used anywhere
 - [ ] Scripture is woven in, not block-quoted throughout

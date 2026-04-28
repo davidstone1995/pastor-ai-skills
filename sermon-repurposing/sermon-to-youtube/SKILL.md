@@ -29,7 +29,7 @@ Provide the following:
 - **Sermon transcript** (full preferred; partial works if it covers the key moments)
 - **Optional:** Approximate sermon length in minutes (used to estimate timestamps)
 
-If you have a YouTube channel description or your church's standard "about" text, include it. It will be used in the description's about section.
+If you have a YouTube channel description or your church's standard "about" text, include it. It will be used in the description's about section. If not provided, use the defaults from pastor-foundation (David Stone, Sunshine Baptist Church, Springfield MO, Missouri State Baptist Student Union) adjusted for the specific church or context of the sermon.
 
 ---
 
@@ -104,7 +104,7 @@ Use approximate timestamps based on the sermon's structure and length. Chapters 
 If exact timestamps are not available, estimate based on total length and transcript pacing. Note that timestamps are approximate if needed.
 
 **About section (2-3 sentences):**
-Brief, warm, third-person. Who is this pastor. What church. Where. One sentence invitation to subscribe or explore more.
+Brief, warm, third-person. Default: David Stone serves as an elder at Sunshine Baptist Church in Springfield, Missouri, and as Director of Leadership Development and Coaching at the Missouri State Baptist Student Union. Adjust if the sermon was preached at a guest church -- use that church's name and context, but note David's role and home church if it adds credibility or context. One sentence invitation to subscribe or explore more.
 
 **Links:**
 Include placeholder lines for:
@@ -126,7 +126,7 @@ Mix three types:
 
 1. **Broad and high-volume:** "sermon," "church," "Bible study," "Christian message," "Sunday sermon," "church online"
 2. **Topic-specific:** Use the actual topic, scripture passage, book of the Bible, and related search terms. Examples: "Romans 8 sermon," "suffering and faith," "trusting God," "anxiety Bible"
-3. **Identity tags:** Pastor name, church name, city and state, denomination if applicable
+3. **Identity tags:** Pastor name, church name, city and state, denomination if applicable. Default identity tags unless the sermon context is different: "David Stone," "Sunshine Baptist Church," "Springfield Missouri," "Southern Baptist," "Missouri State BSU," "Baptist Student Union." Adjust for the specific church or setting if the sermon was preached elsewhere.
 
 Keep total tags between 15 and 20. YouTube's tag limit matters less than it used to, but specificity still helps in related video placement.
 
