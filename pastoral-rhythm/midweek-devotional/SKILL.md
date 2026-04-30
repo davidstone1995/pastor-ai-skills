@@ -42,7 +42,7 @@ The goal is immediate recognition. The reader should think: "That's exactly wher
 
 Pull 1-3 verses. Not a full chapter. The whole passage should fit in a single short paragraph.
 
-Use the pastor's preferred translation. If no preference is given, use the ESV or NIV, whichever reads more naturally for the text.
+Use the pastor's preferred translation. Default to NLT per pastor-foundation. If the passage reads more naturally in another translation for a specific text, use it and note the translation at the end.
 
 Quote it cleanly. No verse-by-verse breakdown. Let the text breathe.
 
@@ -128,7 +128,7 @@ Write the devotional content to a JSON file, then run `generate-pdf.py` to produ
   "date": "April 16, 2026",
   "pastor_name": "PASTOR_NAME from foundation",
   "passage_reference": "Psalm 46:10",
-  "translation": "ESV",
+  "translation": "NLT",
   "scripture_text": "Be still, and know that I am God.",
   "opening": "Opening text (1-2 sentences).",
   "reflection": "Reflection text. Separate paragraphs with double newlines.",
